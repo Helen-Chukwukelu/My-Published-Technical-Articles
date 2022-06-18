@@ -10,4 +10,6 @@ https://helenchukwukelu.hashnode.dev/terraform-project-for-beginners
 
 https://helenchukwukelu.hashnode.dev/how-to-host-wordpress-blog-on-microsoft-azure
 
+https://helenchukwukelu.hashnode.dev/how-i-deployed-my-website-on-aws-using-terraform
+
 Stay tuned for more!
