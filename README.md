@@ -12,4 +12,6 @@ https://helenchukwukelu.hashnode.dev/how-to-host-wordpress-blog-on-microsoft-azu
 
 https://helenchukwukelu.hashnode.dev/how-i-deployed-my-website-on-aws-using-terraform
 
+https://helenchukwukelu.hashnode.dev/deploy-a-three-tier-web-application-on-aws
+
 Stay tuned for more!
