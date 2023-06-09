@@ -17,4 +17,4 @@ https://helenchukwukelu.hashnode.dev/deploy-a-three-tier-web-application-on-aws
 
 Stay tuned for more!
 
-![BeautyPlus_20230602065145092_save](https://github.com/Helen-Chukwukelu/My-Published-Technical-Articles/assets/99098585/e51d22bc-298c-4b28-85c1-ecdbdfd9fadd)
+
